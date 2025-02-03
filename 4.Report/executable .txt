@@ -1,0 +1,35 @@
+---	Executable-----
+	Executable 				:	XXSFCGLNEWTEMP 
+	Short Name 				:	XXSFCGLNEWTEMP
+	Application 			:	sify custom application
+	Description				:	Sify Purchase Order Test Report -01
+	Execution	Method		:	Oracle Reports/Stored Procedure
+	Execution	Type		:	XXSFCPOREP
+	Executable 	File Name	:	
+
+---Program-------
+
+	program					:	Sify Purchase Order Test Report -01
+	Short Name 				:	XXSFCGLNEWTEMP
+	Application 			:	sify custom application
+	Description				:	Sify Purchase Order Test Report -01
+	Output	Format			: 	TEXT
+	Type					: 	A4	
+
+----Data Definitions-----
+ 
+	Data Definition Name	:	Sify Purchase Order Test Report -01
+	Short	Name			:	XXSFCGLNEWTEMP
+	Application				:	sify custom application
+	Description				:	Sify Purchase Order Test Report -01
+
+----Templates------
+ 
+	Template	Name		:	Sify Purchase Order Test Report -01
+	Short	Name			:	XXSFCGLNEWTEMP
+	Application				:	sify custom application
+	Description				:	Sify Purchase Order Test Report -01
+	Data Definition			:	Sify Purchase Order Test Report -01
+
+	languages 				:	English	
+	territories				:	United States
